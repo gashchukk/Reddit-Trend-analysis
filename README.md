@@ -36,7 +36,8 @@ App automatically discovers and ranks trending topics from Reddit by:
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-   cd genesis
+   cd Reddit-Trend-analysis
+
    ```
 
 2. **Create a virtual environment:**
@@ -191,7 +192,7 @@ Creates PDF with:
 ## 📁 Project Structure
 
 ```
-genesis/
+Reddit-Trend-analysis/
 ├── main.py                    # Main entry point
 ├── config.py                  # Configuration settings
 ├── requirements.txt           # Python dependencies
