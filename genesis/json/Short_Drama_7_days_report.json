@@ -1,0 +1,358 @@
+{
+  "niche": "Short Drama",
+  "time_window_days": 7,
+  "subreddits": [
+    {
+      "name": "ShortDramas",
+      "reason": "Active discussions about short story dramas"
+    },
+    {
+      "name": "FilmShorts",
+      "reason": "Focuses on short films and their storytelling techniques"
+    },
+    {
+      "name": "Screenwriting",
+      "reason": "Discussions on writing short drama scripts and storytelling"
+    },
+    {
+      "name": "IndieFilm",
+      "reason": "Spotlight on independent short dramas and filmmakers"
+    },
+    {
+      "name": "ShortStories",
+      "reason": "Exploration of short narrative forms, including dramatic elements"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "How to effectively convey emotion in a limited time frame",
+      "score": 6157836,
+      "posts": 67,
+      "upvotes": 333,
+      "comments": 276,
+      "examples": [
+        {
+          "title": "My screenplay has won in 2 film festivals. What now?",
+          "score": 66,
+          "comments": 22,
+          "url": "https://reddit.com/r/Screenwriting/comments/1quc53t/my_screenplay_has_won_in_2_film_festivals_what_now/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        },
+        {
+          "title": "How do you guys handle creative isolation?",
+          "score": 48,
+          "comments": 17,
+          "url": "https://reddit.com/r/Screenwriting/comments/1qurnw3/how_do_you_guys_handle_creative_isolation/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        },
+        {
+          "title": "Finally working on a murder mystery script. Any tips are welcome!",
+          "score": 22,
+          "comments": 34,
+          "url": "https://reddit.com/r/Screenwriting/comments/1quwtu9/finally_working_on_a_murder_mystery_script_any/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        }
+      ]
+    },
+    {
+      "theme": "The impact of setting on storytelling in short dramas",
+      "score": 4878720,
+      "posts": 60,
+      "upvotes": 308,
+      "comments": 264,
+      "examples": [
+        {
+          "title": "My screenplay has won in 2 film festivals. What now?",
+          "score": 66,
+          "comments": 22,
+          "url": "https://reddit.com/r/Screenwriting/comments/1quc53t/my_screenplay_has_won_in_2_film_festivals_what_now/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        },
+        {
+          "title": "How do you guys handle creative isolation?",
+          "score": 48,
+          "comments": 17,
+          "url": "https://reddit.com/r/Screenwriting/comments/1qurnw3/how_do_you_guys_handle_creative_isolation/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        },
+        {
+          "title": "Finally working on a murder mystery script. Any tips are welcome!",
+          "score": 22,
+          "comments": 34,
+          "url": "https://reddit.com/r/Screenwriting/comments/1quwtu9/finally_working_on_a_murder_mystery_script_any/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        }
+      ]
+    },
+    {
+      "theme": "The role of dialogue versus action in short dramas",
+      "score": 3575040,
+      "posts": 57,
+      "upvotes": 256,
+      "comments": 245,
+      "examples": [
+        {
+          "title": "My screenplay has won in 2 film festivals. What now?",
+          "score": 66,
+          "comments": 22,
+          "url": "https://reddit.com/r/Screenwriting/comments/1quc53t/my_screenplay_has_won_in_2_film_festivals_what_now/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        },
+        {
+          "title": "Finally working on a murder mystery script. Any tips are welcome!",
+          "score": 22,
+          "comments": 34,
+          "url": "https://reddit.com/r/Screenwriting/comments/1quwtu9/finally_working_on_a_murder_mystery_script_any/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        },
+        {
+          "title": "Can it be 'quitting' if i never even accomplished anything?",
+          "score": 18,
+          "comments": 30,
+          "url": "https://reddit.com/r/Screenwriting/comments/1quctga/can_it_be_quitting_if_i_never_even_accomplished/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        }
+      ]
+    },
+    {
+      "theme": "The importance of pacing in short drama narratives",
+      "score": 3575040,
+      "posts": 57,
+      "upvotes": 256,
+      "comments": 245,
+      "examples": [
+        {
+          "title": "My screenplay has won in 2 film festivals. What now?",
+          "score": 66,
+          "comments": 22,
+          "url": "https://reddit.com/r/Screenwriting/comments/1quc53t/my_screenplay_has_won_in_2_film_festivals_what_now/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        },
+        {
+          "title": "Finally working on a murder mystery script. Any tips are welcome!",
+          "score": 22,
+          "comments": 34,
+          "url": "https://reddit.com/r/Screenwriting/comments/1quwtu9/finally_working_on_a_murder_mystery_script_any/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        },
+        {
+          "title": "Can it be 'quitting' if i never even accomplished anything?",
+          "score": 18,
+          "comments": 30,
+          "url": "https://reddit.com/r/Screenwriting/comments/1quctga/can_it_be_quitting_if_i_never_even_accomplished/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        }
+      ]
+    },
+    {
+      "theme": "The influence of cultural context on short drama themes",
+      "score": 2407272,
+      "posts": 49,
+      "upvotes": 267,
+      "comments": 184,
+      "examples": [
+        {
+          "title": "My screenplay has won in 2 film festivals. What now?",
+          "score": 66,
+          "comments": 22,
+          "url": "https://reddit.com/r/Screenwriting/comments/1quc53t/my_screenplay_has_won_in_2_film_festivals_what_now/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        },
+        {
+          "title": "How do you guys handle creative isolation?",
+          "score": 48,
+          "comments": 17,
+          "url": "https://reddit.com/r/Screenwriting/comments/1qurnw3/how_do_you_guys_handle_creative_isolation/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        },
+        {
+          "title": "Finally working on a murder mystery script. Any tips are welcome!",
+          "score": 22,
+          "comments": 34,
+          "url": "https://reddit.com/r/Screenwriting/comments/1quwtu9/finally_working_on_a_murder_mystery_script_any/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        }
+      ]
+    },
+    {
+      "theme": "Character development in short dramas",
+      "score": 1866240,
+      "posts": 40,
+      "upvotes": 216,
+      "comments": 216,
+      "examples": [
+        {
+          "title": "My screenplay has won in 2 film festivals. What now?",
+          "score": 66,
+          "comments": 22,
+          "url": "https://reddit.com/r/Screenwriting/comments/1quc53t/my_screenplay_has_won_in_2_film_festivals_what_now/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        },
+        {
+          "title": "Finally working on a murder mystery script. Any tips are welcome!",
+          "score": 22,
+          "comments": 34,
+          "url": "https://reddit.com/r/Screenwriting/comments/1quwtu9/finally_working_on_a_murder_mystery_script_any/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        },
+        {
+          "title": "Can it be 'quitting' if i never even accomplished anything?",
+          "score": 18,
+          "comments": 30,
+          "url": "https://reddit.com/r/Screenwriting/comments/1quctga/can_it_be_quitting_if_i_never_even_accomplished/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        }
+      ]
+    },
+    {
+      "theme": "Exploring common themes in popular short dramas",
+      "score": 1866240,
+      "posts": 40,
+      "upvotes": 216,
+      "comments": 216,
+      "examples": [
+        {
+          "title": "My screenplay has won in 2 film festivals. What now?",
+          "score": 66,
+          "comments": 22,
+          "url": "https://reddit.com/r/Screenwriting/comments/1quc53t/my_screenplay_has_won_in_2_film_festivals_what_now/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        },
+        {
+          "title": "Finally working on a murder mystery script. Any tips are welcome!",
+          "score": 22,
+          "comments": 34,
+          "url": "https://reddit.com/r/Screenwriting/comments/1quwtu9/finally_working_on_a_murder_mystery_script_any/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        },
+        {
+          "title": "Can it be 'quitting' if i never even accomplished anything?",
+          "score": 18,
+          "comments": 30,
+          "url": "https://reddit.com/r/Screenwriting/comments/1quctga/can_it_be_quitting_if_i_never_even_accomplished/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        }
+      ]
+    },
+    {
+      "theme": "The challenges of casting for short drama productions",
+      "score": 281240,
+      "posts": 40,
+      "upvotes": 79,
+      "comments": 89,
+      "examples": [
+        {
+          "title": "VETERAN OF CHILDREN'S ANIMATION HERE, AMA! (let's try this again!)",
+          "score": 16,
+          "comments": 17,
+          "url": "https://reddit.com/r/Screenwriting/comments/1qvc4ny/veteran_of_childrens_animation_here_ama_lets_try/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        },
+        {
+          "title": "Best ways you\u2019ve seen a theme expressed on screen",
+          "score": 11,
+          "comments": 12,
+          "url": "https://reddit.com/r/Screenwriting/comments/1qv9eq7/best_ways_youve_seen_a_theme_expressed_on_screen/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        },
+        {
+          "title": "A Phone Call from the President - Single Cam Sitcom - 4 pages",
+          "score": 0,
+          "comments": 20,
+          "url": "https://reddit.com/r/Screenwriting/comments/1quc8x3/a_phone_call_from_the_president_single_cam_sitcom/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        }
+      ]
+    },
+    {
+      "theme": "Comparing short dramas to feature-length films",
+      "score": 25783,
+      "posts": 19,
+      "upvotes": 59,
+      "comments": 23,
+      "examples": [
+        {
+          "title": "Showrunner Malcolm Spellman and TV/feature writer Tim Talbott try to spot pro screenwriting in only one page...",
+          "score": 39,
+          "comments": 8,
+          "url": "https://reddit.com/r/Screenwriting/comments/1qv8kcn/showrunner_malcolm_spellman_and_tvfeature_writer/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        },
+        {
+          "title": "Writing with a foreign language that\u2019s been translated by a translator?",
+          "score": 2,
+          "comments": 4,
+          "url": "https://reddit.com/r/Screenwriting/comments/1qv11wx/writing_with_a_foreign_language_thats_been/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        },
+        {
+          "title": "3 indie films released on this day in 1969, 1972, and 2007. Can you name them?",
+          "score": 2,
+          "comments": 2,
+          "url": "https://reddit.com/r/indiefilm/comments/1qto4nu/3_indie_films_released_on_this_day_in_1969_1972/",
+          "subreddit": "IndieFilm",
+          "top_comments": []
+        }
+      ]
+    },
+    {
+      "theme": "Audience engagement strategies for short dramas",
+      "score": 1430,
+      "posts": 11,
+      "upvotes": 13,
+      "comments": 10,
+      "examples": [
+        {
+          "title": "Writing with a foreign language that\u2019s been translated by a translator?",
+          "score": 2,
+          "comments": 4,
+          "url": "https://reddit.com/r/Screenwriting/comments/1qv11wx/writing_with_a_foreign_language_thats_been/",
+          "subreddit": "Screenwriting",
+          "top_comments": []
+        },
+        {
+          "title": "I'm a high school filmmaker -- this is my first narrative short. I'd love some feedback.",
+          "score": 1,
+          "comments": 2,
+          "url": "https://reddit.com/r/indiefilm/comments/1qv3sno/im_a_high_school_filmmaker_this_is_my_first/",
+          "subreddit": "IndieFilm",
+          "top_comments": []
+        },
+        {
+          "title": "Our Independent short storyboard vs final",
+          "score": 1,
+          "comments": 2,
+          "url": "https://reddit.com/r/indiefilm/comments/1qunjsf/our_independent_short_storyboard_vs_final/",
+          "subreddit": "IndieFilm",
+          "top_comments": []
+        }
+      ]
+    }
+  ]
+}
